@@ -1,0 +1,1 @@
+Provides access to information about a route associated with a component that is loaded in an outlet
