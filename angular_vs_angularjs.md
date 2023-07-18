@@ -1,5 +1,15 @@
-- `What is Angular and how does it differ from AngularJS?`
+Difference between `Angular` and `AngularJS`
 
-   - Angular is a TypeScript-based open-source framework for building web applications, whereas AngularJS is its predecessor and is based on JavaScript.
-   
-   - Angular  offers enhanced performance, improved modularity, and better tooling support.
+1. 
+   - Angular: Angular is a newer, more modern framework, with its first major release (Angular 2) occurring in 2016.
+
+   - AngularJS: AngularJS is the older version, often referred to as Angular 1, which was released in 2010. It is now considered outdated compared to the newer versions of Angular.
+
+2. 
+
+   - Angular: Angular is based on TypeScript, a superset of JavaScript that adds static typing and other features to enhance the development experience.
+
+   - AngularJS: AngularJS is based on JavaScript, without the added benefits of TypeScript.
+
+
+
